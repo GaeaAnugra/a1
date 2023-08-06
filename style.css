@@ -1,0 +1,28 @@
+body {background-color: black;
+
+}
+
+h1 {font-family: 'Julius Sans One', sans-serif;
+    color: white;
+}
+
+h2 {font-family: 'Quicksand', sans-serif;
+    color: aliceblue;
+}
+
+h3 {font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+
+p {font-family: 'Quicksand', sans-serif;
+color: white;
+}
+
+ul {font-family: 'Quicksand', sans-serif;
+    color: white;
+    }
+
+.img-White-Wave {
+width: 300px;
+
+}
